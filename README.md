@@ -1,2 +1,2 @@
 # LocalRepo
-local repo created
+local repo created demo
